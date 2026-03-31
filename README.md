@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Damián 👋
 
-<!--
-**lardam/lardam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance Front-end Developer & UI Designer based in Buenos Aires, Argentina.  
+I build fast, accessible, and well-designed web experiences.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** Vue.js · React · Next.js · TypeScript  
+**CMS/No-code:** WordPress · Webflow  
+**Design:** Figma · Adobe Xd · UI Design · Graphic Design  
+**Backend/DB:** Supabase · Node.js  
+**Tools:** Git · Vercel · REST APIs
+
+## 📫 Contact
+
+- Portfolio: [larenasdamian.com](https://larenasdamian.com)
+- Email: larenasdam@gmail.com
+- LinkedIn: [linkedin.com/in/larenasdamian](https://linkedin.com/in/larenasdamian)
